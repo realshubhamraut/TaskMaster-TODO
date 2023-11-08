@@ -14,8 +14,6 @@ $ pip install tabulate
 
 ---
 
-## Usage
-
 Use [python](https://www.python.org/) to run the application
 ```
 $ python project.py
