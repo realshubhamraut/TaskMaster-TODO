@@ -1,8 +1,12 @@
 # TaskMaster-TODO
-#### Video Demo:  <>
+### Video Demo:  <>
 
 #### Description: A interface for to-do list created using Python and tabulate is the library being used for making tables
 ---
+### Demo:
+
+
+![project-img](./project_images/project-gif.gif)
 
 ## Installation
 
@@ -13,7 +17,6 @@ $ pip install tabulate
 ```
 
 ## Usage
----
 
 Use [python](https://www.python.org/) to run the application
 ```
