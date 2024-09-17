@@ -1,9 +1,9 @@
 # TaskMaster-TODO
-### Video Demo:  <>
+Quick terminal based logical approach for to-do app (this is one of my first projects in python)
 
 #### Description: A interface for to-do list created using Python and tabulate is the library being used for making tables
 ---
-### This is final project created for CS50P final submission.
+### This was final project developed for CS50P's final submission.
 ---
 ### Demo:
 
